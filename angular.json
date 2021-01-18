@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "kims-ui"
+  "defaultProject": "kims-ui",
+  "cli": {
+    "analytics": "3d78d0c7-99fd-4f89-aaf8-14a39c130585"
+  }
 }
